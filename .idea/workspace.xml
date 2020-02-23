@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948ac3ca-bcb7-4b5f-bf2d-6637d2f83491" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/respo/hotel-view-service-feign-dev.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/respo/product-view-service-feign-dev.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,7 +65,8 @@
       <updated>1581742880861</updated>
       <workItem from="1581742884581" duration="748000" />
       <workItem from="1581905815042" duration="1564000" />
-      <workItem from="1581910251800" duration="253000" />
+      <workItem from="1581910251800" duration="2583000" />
+      <workItem from="1582451192655" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1581743510855</created>
@@ -108,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581910276330</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test">
+      <created>1581910723466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581910723466</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,18 +140,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1581743578473" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1581910275362">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1581910722628">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581910275362" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581910722628" />
     <state x="121" y="56" key="DiffContextDialog" timestamp="1581905890853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="56" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1581905890853" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1581910277896">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1581910724960">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1581910277896" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1581910724960" />
     <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581906689068">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -144,5 +160,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1581743426208" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582451355779">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582451355779" />
   </component>
 </project>
